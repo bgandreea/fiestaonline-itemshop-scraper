@@ -1,0 +1,2 @@
+DISCORD_BOT_SECRET_KEY=your_discord_bot_secret_key
+YOUR_DISCORD_SERVER_ID=your_discord_server_id
