@@ -1,2 +1,3 @@
 DISCORD_BOT_SECRET_KEY=your_discord_bot_secret_key
 DISCORD_SERVER_ID=your_discord_server_id
+CHANNEL_ID=your_channel_id
